@@ -1,5 +1,5 @@
 
-## `Hi there, I'm Julia Nastenko 💻`
+### `Hi there, I'm Julia Nastenko 💻`
 
 ---
 
